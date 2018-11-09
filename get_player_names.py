@@ -2,6 +2,7 @@
 import json, os
 from pprint import pprint
 import pandas as pd
+import xlsxwriter
 import xlwt 
 from tempfile import TemporaryFile
 
@@ -65,13 +66,34 @@ for name in bowlers:
         if len(name) == 1:  #only store name if there was one POM
             names.append(name)
 
+final_names = list() #properly formated list of names USE THIS TO WRITE TO EXCEL FILE
+for name in names:
+    final_names.append(name[0])
+
+
 #-->Create excel file with names
-book = xlwt.Workbook()
-sheet1 = book.add_sheet('sheet1')
+header = 'player names'
+df = pd.DataFrame({header: final_names})
 
-for i,e in enumerate(names):
-    sheet1.write(i, 1, e)
+# Create a Pandas Excel writer using XlsxWriter as the engine.
+writer = pd.ExcelWriter("player_names.xlsx", engine='xlsxwriter')
+df.to_excel(writer, sheet_name='Sheet1', startrow=1, header=False)
 
-xname = 'player_names.xls'
-book.save(xname)
-book.save(TemporaryFile())
+# Get the xlsxwriter workbook and worksheet objects.
+workbook  = writer.book
+worksheet = writer.sheets['Sheet1']
+
+# Add a header format.
+header_format = workbook.add_format({
+    'bold': True,
+    'text_wrap': True,
+    'valign': 'top',
+    'fg_color': '#D7E4BC',
+    'border': 1})
+
+# Write the column headers with the defined format.
+for col_num, value in enumerate(df.columns.values):
+    worksheet.write(0, col_num + 1, value, header_format)
+
+# Close the Pandas Excel writer and output the Excel file.
+writer.save()
