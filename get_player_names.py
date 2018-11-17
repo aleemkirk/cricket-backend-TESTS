@@ -22,13 +22,12 @@ for name in json_files:
         data =json.load(datafile)
     #-->store all player of matches
     if 'player_of_match' not in data['info']:
-        pom.append('')
+        pass
     else:
-        pom.append(data["info"]["player_of_match"])
+        pom.append(data["info"]["player_of_match"][0])
     #-->store all batsmen and bowlers for 1st innings
     if '1st innings' not in data['innings'][0]:
-        batsmen.append('')
-        bowlers.append('')
+        pass
     else:
         for obj in data['innings'][0]['1st innings']['deliveries']:
             for key in obj.keys():
@@ -37,10 +36,9 @@ for name in json_files:
                 batsmen.append(obj[index]['batsman'])
             if obj[index]['bowler'] not in bowlers:
                 bowlers.append(obj[index]['bowler'])
-    #-->stor all batsmen and bowlers for 2nd innings
+    #-->store all batsmen and bowlers for 2nd innings
     if '2nd innings' not in data['innings'][0]:
-        batsmen.append('')
-        bowlers.append('')
+        pass
     else:
         for obj in data['innings'][0]['2nd innings']['deliveries']:
             for key in obj.keys():
@@ -50,30 +48,20 @@ for name in json_files:
             if obj[index]['bowler'] not in bowlers:
                 bowlers.append(obj[index]['bowler'])
 
-    
-
-#--> creating a list of player names
+#--> creating a list of unique player names
 for name in pom:
-    if name not in names:   #store if name not already in list
-        if len(name) == 1:  #only store name if there was one POM
-            names.append(name)
+    if name not in names:
+        names.append(name)
 for name in batsmen:
-    if name not in names:   #store if name not already in list
-        if len(name) == 1:  #only store name if there was one POM
-            names.append(name)
+    if name not in names:
+        names.append(name)
 for name in bowlers:
-    if name not in names:   #store if name not already in list
-        if len(name) == 1:  #only store name if there was one POM
-            names.append(name)
-
-final_names = list() #properly formated list of names USE THIS TO WRITE TO EXCEL FILE
-for name in names:
-    final_names.append(name[0])
-
+    if name not in names:
+        names.append(name)       
 
 #-->Create excel file with names
 header = 'player names'
-df = pd.DataFrame({header: final_names})
+df = pd.DataFrame({header: names})
 
 # Create a Pandas Excel writer using XlsxWriter as the engine.
 writer = pd.ExcelWriter("player_names.xlsx", engine='xlsxwriter')
