@@ -11,13 +11,14 @@ pom = list() #list of player of matches
 batsmen = list() #list of batsmen
 bowlers = list() #list of bowlers
 names = list() #list of player names
+non_strikers = list() #list of non strikers 
 
 #-->get file names ending with .json
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 
 #-->reading json file
-for name in json_files:
-    loc = path_to_json+'/'+ name #get file location
+for file_name in json_files:
+    loc = path_to_json+'/'+ file_name #get file location
     with open(loc) as datafile:
         data =json.load(datafile)
     #-->store all player of matches
@@ -25,29 +26,33 @@ for name in json_files:
         pass
     else:
         pom.append(data["info"]["player_of_match"][0])
-    #-->store all batsmen and bowlers for 1st innings
+    #-->store all batsmen, non strikers and bowlers for 1st innings
     if '1st innings' not in data['innings'][0]:
         pass
     else:
         for obj in data['innings'][0]['1st innings']['deliveries']:
-            for key in obj.keys():
-                index =  key  #get ball number
+            key = list(obj.keys())
+            index = key[0]  # get ball number
             if obj[index]['batsman'] not in batsmen:
                 batsmen.append(obj[index]['batsman'])
             if obj[index]['bowler'] not in bowlers:
                 bowlers.append(obj[index]['bowler'])
-    #-->store all batsmen and bowlers for 2nd innings
-    if '2nd innings' not in data['innings'][0]:
+            if obj[index]['non_striker'] not in non_strikers:
+                non_strikers.append(obj[index]['bowler'])    
+    #-->store all batsmen, non strikers and bowlers for 2nd innings
+    if '2nd innings' not in data['innings'][len(data['innings'])-1]:
         pass
     else:
-        for obj in data['innings'][0]['2nd innings']['deliveries']:
-            for key in obj.keys():
-                index =  key  #get ball number
+        for obj in data['innings'][len(data['innings'])-1]['2nd innings']['deliveries']:
+            key = list(obj.keys())
+            index = key[0]  # get ball number
             if obj[index]['batsman'] not in batsmen:
                 batsmen.append(obj[index]['batsman'])
             if obj[index]['bowler'] not in bowlers:
                 bowlers.append(obj[index]['bowler'])
-
+            if obj[index]['non_striker'] not in non_strikers:
+                non_strikers.append(obj[index]['bowler'])  
+    print(file_name)
 #--> creating a list of unique player names
 for name in pom:
     if name not in names:
@@ -58,6 +63,11 @@ for name in batsmen:
 for name in bowlers:
     if name not in names:
         names.append(name)       
+for name in non_strikers:
+    if name not in names:
+        names.append(name)   
+
+print(str(len(names)))
 
 #-->Create excel file with names
 header = 'player names'
