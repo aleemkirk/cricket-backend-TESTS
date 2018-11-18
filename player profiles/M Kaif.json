@@ -1,0 +1,215 @@
+{
+    "player name": "M Kaif",
+    "team": "India",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Arbab Niaz Stadium",
+            "date": "2006-02-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Rawalpindi Cricket Stadium",
+            "date": "2006-02-11T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2006-02-13T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Stadium",
+            "date": "2006-02-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Feroz Shah Kotla",
+            "date": "2006-03-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Keenan Stadium",
+            "date": "2006-04-12T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 15,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sabina Park, Kingston",
+            "date": "2006-05-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Warner Park, Basseterre",
+            "date": "2006-05-23T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 61,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2006-05-26T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 62,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2006-05-28T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kingsmead",
+            "date": "2006-11-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Newlands",
+            "date": "2006-11-26T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "St George's Park",
+            "date": "2006-11-29T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Punjab Cricket Association Stadium, Mohali",
+            "date": "2006-10-29T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 30,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-14T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-22T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 21,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

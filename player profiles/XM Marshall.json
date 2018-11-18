@@ -1,0 +1,111 @@
+{
+    "player name": "XM Marshall",
+    "team": "West Indies",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Arnos Vale Ground, Kingstown",
+            "date": "2008-06-24T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Cricket Stadium, St George's",
+            "date": "2008-06-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Cricket Stadium, St George's",
+            "date": "2008-06-29T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 35,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 5
+        },
+        {
+            "venue": "Warner Park, Basseterre",
+            "date": "2008-07-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Warner Park, Basseterre",
+            "date": "2008-07-06T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 17,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queenstown Events Centre",
+            "date": "2008-12-31T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 29,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2008-11-12T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 26,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2008-11-14T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

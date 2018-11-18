@@ -1,0 +1,228 @@
+{
+    "player name": "Sohag Gazi",
+    "team": "Bangladesh",
+    "player of matches received": 2,
+    "match stats": [
+        {
+            "venue": "Sheikh Abu Naser Stadium",
+            "date": "2012-11-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2012-12-05T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 30,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2012-12-07T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2012-12-08T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 7
+        },
+        {
+            "venue": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",
+            "date": "2013-03-23T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Pallekele International Cricket Stadium",
+            "date": "2013-03-28T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2013-10-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2013-10-31T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 26,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2013-11-03T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-02-17T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-02-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-02-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 3,
+            "total runs": 23,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2014-02-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2014-03-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Cricket Stadium, St George's",
+            "date": "2014-08-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Cricket Stadium, St George's",
+            "date": "2014-08-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Warner Park, Basseterre",
+            "date": "2014-08-25T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

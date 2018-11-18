@@ -1,0 +1,20 @@
+{
+    "player name": "Raees Ahmadzai",
+    "team": "Afghanistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Willowmoore Park",
+            "date": "2009-04-19T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 39,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

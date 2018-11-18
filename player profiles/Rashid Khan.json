@@ -1,0 +1,306 @@
+{
+    "player name": "Rashid Khan",
+    "team": "Afghanistan",
+    "player of matches received": 2,
+    "match stats": [
+        {
+            "venue": "Grange Cricket Club Ground, Raeburn Place",
+            "date": "2016-07-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Greater Noida Sports Complex Ground",
+            "date": "2017-03-17T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Greater Noida Sports Complex Ground",
+            "date": "2017-03-19T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 3,
+            "total runs": 56,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Greater Noida Sports Complex Ground",
+            "date": "2017-03-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        },
+        {
+            "venue": "Greater Noida Sports Complex Ground",
+            "date": "2017-03-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-09-25T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-09-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-10-01T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 17,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2017-02-16T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 2,
+            "total runs": 32,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2017-02-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2017-02-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2017-02-24T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2017-02-26T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 18,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Darren Sammy National Cricket Stadium, Gros Islet",
+            "date": "2017-06-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Darren Sammy National Cricket Stadium, Gros Islet",
+            "date": "2017-06-11T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2015-10-18T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2015-10-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2016-01-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2016-01-04T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2016-01-06T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 31,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Civil Service Cricket Club, Stormont",
+            "date": "2016-07-12T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 1,
+            "total runs": 18,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Civil Service Cricket Club, Stormont",
+            "date": "2016-07-17T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 2,
+            "total runs": 60,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Civil Service Cricket Club, Stormont",
+            "date": "2016-07-19T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 1,
+            "total runs": 40,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        }
+    ]
+}

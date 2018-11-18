@@ -1,0 +1,33 @@
+{
+    "player name": "AC Agar",
+    "team": "Australia",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Old Trafford",
+            "date": "2015-09-08T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Old Trafford",
+            "date": "2015-09-13T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

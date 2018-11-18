@@ -1,0 +1,72 @@
+{
+    "player name": "WP Masakadza",
+    "team": "Zimbabwe",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Harare Sports Club",
+            "date": "2015-10-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2015-10-11T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2015-10-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2015-10-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2015-12-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

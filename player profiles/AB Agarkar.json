@@ -1,0 +1,345 @@
+{
+    "player name": "AB Agarkar",
+    "team": "India",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Arbab Niaz Stadium",
+            "date": "2006-02-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Multan Cricket Stadium",
+            "date": "2006-02-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Nehru Stadium, Fatorda",
+            "date": "2006-04-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sabina Park, Kingston",
+            "date": "2006-05-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Warner Park, Basseterre",
+            "date": "2006-05-23T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2006-05-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2006-05-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 21,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2006-04-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2007-03-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2007-03-23T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Kingsmead",
+            "date": "2006-11-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Newlands",
+            "date": "2006-11-26T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "St George's Park",
+            "date": "2006-11-29T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sardar Patel Stadium, Motera",
+            "date": "2006-10-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 6
+        },
+        {
+            "venue": "The Rose Bowl",
+            "date": "2007-08-21T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2007-08-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Old Trafford",
+            "date": "2007-08-30T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Kennington Oval",
+            "date": "2007-09-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "MA Chidambaram Stadium, Chepauk",
+            "date": "2007-01-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 8
+        },
+        {
+            "venue": "Indian Petrochemicals Corporation Limited Sports Complex Ground",
+            "date": "2007-01-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Nehru Stadium, Fatorda",
+            "date": "2007-02-14T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Titwood",
+            "date": "2007-08-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 5
+        },
+        {
+            "venue": "Civil Service Cricket Club, Stormont",
+            "date": "2007-06-23T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Civil Service Cricket Club, Stormont",
+            "date": "2007-07-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

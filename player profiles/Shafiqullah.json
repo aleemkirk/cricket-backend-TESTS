@@ -1,0 +1,150 @@
+{
+    "player name": "Shafiqullah",
+    "team": "Afghanistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Greater Noida Sports Complex Ground",
+            "date": "2017-03-17T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 2,
+            "total runs": 35,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Greater Noida Sports Complex Ground",
+            "date": "2017-03-19T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 4,
+            "total runs": 50,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Greater Noida Sports Complex Ground",
+            "date": "2017-03-22T00:00:00.000Z",
+            "fours": 8,
+            "sixes": 0,
+            "total runs": 42,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Greater Noida Sports Complex Ground",
+            "date": "2017-03-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2015-03-13T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 30,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2014-05-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 2,
+            "total runs": 14,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2014-07-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2014-07-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2014-07-24T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 2,
+            "total runs": 56,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2015-10-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2016-01-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

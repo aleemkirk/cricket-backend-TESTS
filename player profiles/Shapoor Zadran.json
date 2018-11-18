@@ -1,0 +1,202 @@
+{
+    "player name": "Shapoor Zadran",
+    "team": "Afghanistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Grange Cricket Club Ground, Raeburn Place",
+            "date": "2016-07-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2012-02-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Association Stadium",
+            "date": "2012-08-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Manuka Oval",
+            "date": "2015-02-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "University Oval",
+            "date": "2015-02-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "University Oval",
+            "date": "2015-02-26T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "McLean Park",
+            "date": "2015-03-08T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2014-02-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2014-03-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-03-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-03-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2014-05-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2014-07-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "ICC Academy",
+            "date": "2014-11-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Civil Service Cricket Club, Stormont",
+            "date": "2016-07-12T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 6
+        }
+    ]
+}

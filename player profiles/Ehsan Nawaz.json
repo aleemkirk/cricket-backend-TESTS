@@ -1,0 +1,20 @@
+{
+    "player name": "Ehsan Nawaz",
+    "team": "Hong Kong",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2017-01-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

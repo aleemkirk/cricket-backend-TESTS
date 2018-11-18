@@ -1,0 +1,20 @@
+{
+    "player name": "Tapash Baisya",
+    "team": "",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Chittagong Divisional Stadium",
+            "date": "2006-02-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        }
+    ]
+}

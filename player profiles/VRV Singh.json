@@ -1,0 +1,33 @@
+{
+    "player name": "VRV Singh",
+    "team": "India",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Keenan Stadium",
+            "date": "2006-04-12T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Maharani Usharaje Trust Cricket Ground",
+            "date": "2006-04-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 1
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "player name": "Dolar Mahmud",
+    "team": "Bangladesh",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2008-06-24T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 20,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2009-08-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2009-10-27T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 3,
+            "total runs": 41,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

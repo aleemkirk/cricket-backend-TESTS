@@ -1,0 +1,254 @@
+{
+    "player name": "SR Clark",
+    "team": "Australia",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2006-01-15T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 15,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2006-02-12T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Newlands",
+            "date": "2006-03-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "St George's Park",
+            "date": "2006-03-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kingsmead",
+            "date": "2006-03-10T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Bellerive Oval",
+            "date": "2007-01-14T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2007-01-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Melbourne Cricket Ground",
+            "date": "2007-02-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Adelaide Oval",
+            "date": "2007-01-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2007-02-02T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 15,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-16T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Adelaide Oval",
+            "date": "2008-02-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 6
+        },
+        {
+            "venue": "Rajiv Gandhi International Stadium, Uppal",
+            "date": "2007-10-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Marrara Cricket Ground",
+            "date": "2008-08-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Marrara Cricket Ground",
+            "date": "2008-09-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Dubai Sports City Cricket Stadium",
+            "date": "2009-04-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2009-04-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2009-05-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

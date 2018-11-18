@@ -1,0 +1,46 @@
+{
+    "player name": "L Sreekumar",
+    "team": "United Arab Emirates",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "ICC Academy",
+            "date": "2015-11-16T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Grange Cricket Club Ground, Raeburn Place",
+            "date": "2016-08-14T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 28,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Grange Cricket Club Ground, Raeburn Place",
+            "date": "2016-08-16T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 1,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "player name": "T Bavuma",
+    "team": "South Africa",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Willowmoore Park",
+            "date": "2016-09-25T00:00:00.000Z",
+            "fours": 13,
+            "sixes": 1,
+            "total runs": 113,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

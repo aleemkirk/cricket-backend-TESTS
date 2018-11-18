@@ -1,0 +1,33 @@
+{
+    "player name": "Nasir Aziz",
+    "team": "United Arab Emirates",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "McLean Park",
+            "date": "2015-03-15T00:00:00.000Z",
+            "fours": 8,
+            "sixes": 0,
+            "total runs": 60,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "ICC Academy",
+            "date": "2015-11-16T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 21,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

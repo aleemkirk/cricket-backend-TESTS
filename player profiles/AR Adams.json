@@ -1,0 +1,33 @@
+{
+    "player name": "AR Adams",
+    "team": "New Zealand",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "McLean Park",
+            "date": "2006-12-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        },
+        {
+            "venue": "Eden Park",
+            "date": "2007-01-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

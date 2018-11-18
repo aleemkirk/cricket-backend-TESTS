@@ -1,0 +1,98 @@
+{
+    "player name": "Mohammad Tauqir",
+    "team": "United Arab Emirates",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2008-06-24T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 17,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2008-06-26T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2015-02-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Western Australia Cricket Association Ground",
+            "date": "2015-02-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Westpac Stadium",
+            "date": "2015-03-12T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "McLean Park",
+            "date": "2015-03-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "ICC Academy",
+            "date": "2014-11-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "player name": "HG Munsey",
+    "team": "Scotland",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-01-22T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 1,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

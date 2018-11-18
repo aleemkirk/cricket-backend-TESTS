@@ -1,0 +1,33 @@
+{
+    "player name": "MEMO Scott Hayward",
+    "team": "Ireland",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Observatory Lane, Rathmines",
+            "date": "2013-07-17T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "YMCA Cricket Club",
+            "date": "2013-07-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 3
+        }
+    ]
+}

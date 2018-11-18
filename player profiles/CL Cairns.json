@@ -1,0 +1,33 @@
+{
+    "player name": "CL Cairns",
+    "team": "New Zealand",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Jade Stadium",
+            "date": "2006-01-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Westpac Stadium",
+            "date": "2006-01-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

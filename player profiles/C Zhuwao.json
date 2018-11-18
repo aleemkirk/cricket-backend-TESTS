@@ -1,0 +1,20 @@
+{
+    "player name": "C Zhuwao",
+    "team": "Zimbabwe",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2008-10-17T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

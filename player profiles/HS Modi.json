@@ -1,0 +1,33 @@
+{
+    "player name": "HS Modi",
+    "team": "Kenya",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2006-08-12T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 22,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2006-08-13T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

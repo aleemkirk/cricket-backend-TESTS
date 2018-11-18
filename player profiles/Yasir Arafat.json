@@ -1,0 +1,85 @@
+{
+    "player name": "Yasir Arafat",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2006-02-13T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Stadium",
+            "date": "2006-02-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Punjab Cricket Association Stadium, Mohali",
+            "date": "2006-10-27T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 27,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Multan Cricket Stadium",
+            "date": "2008-01-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2009-04-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2009-05-01T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 1,
+            "total runs": 23,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 4
+        }
+    ]
+}

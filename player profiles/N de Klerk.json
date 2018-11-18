@@ -1,0 +1,59 @@
+{
+    "player name": "N de Klerk",
+    "team": "South Africa",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "North-West University No1 Ground",
+            "date": "2017-05-09T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Senwes Park",
+            "date": "2017-05-11T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        },
+        {
+            "venue": "North-West University No1 Ground",
+            "date": "2017-05-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Senwes Park",
+            "date": "2017-05-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

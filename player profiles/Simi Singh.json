@@ -1,0 +1,33 @@
+{
+    "player name": "Simi Singh",
+    "team": "Ireland",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Malahide",
+            "date": "2017-05-14T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Malahide",
+            "date": "2017-05-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        }
+    ]
+}

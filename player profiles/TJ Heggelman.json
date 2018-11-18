@@ -1,0 +1,33 @@
+{
+    "player name": "TJ Heggelman",
+    "team": "Netherlands",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Clontarf Cricket Club Ground",
+            "date": "2010-08-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Mannofield Park",
+            "date": "2011-06-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 22,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "player name": "R Telemachus",
+    "team": "South Africa",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "St George's Park",
+            "date": "2006-03-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 3,
+            "total runs": 29,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Kingsmead",
+            "date": "2006-03-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "New Wanderers Stadium",
+            "date": "2006-03-12T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 3
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "player name": "PLS Gamage",
+    "team": "Sri Lanka",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Rajiv Gandhi International Stadium, Uppal",
+            "date": "2014-11-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 5
+        }
+    ]
+}

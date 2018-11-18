@@ -1,0 +1,20 @@
+{
+    "player name": "DA Gunawardene",
+    "team": "Sri Lanka",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Jade Stadium",
+            "date": "2006-01-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

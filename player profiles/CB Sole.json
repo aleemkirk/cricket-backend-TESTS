@@ -1,0 +1,59 @@
+{
+    "player name": "CB Sole",
+    "team": "Scotland",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-01-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 9
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2017-01-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Grange Cricket Club Ground, Raeburn Place",
+            "date": "2017-06-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Grange Cricket Club Ground, Raeburn Place",
+            "date": "2017-06-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 4
+        }
+    ]
+}

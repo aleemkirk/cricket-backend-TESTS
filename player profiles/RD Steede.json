@@ -1,0 +1,33 @@
+{
+    "player name": "RD Steede",
+    "team": "Bermuda",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sedgars Park",
+            "date": "2006-11-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Maple Leaf North-West Ground",
+            "date": "2008-06-29T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        }
+    ]
+}

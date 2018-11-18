@@ -1,0 +1,59 @@
+{
+    "player name": "R Ngarava",
+    "team": "Zimbabwe",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Harare Sports Club",
+            "date": "2017-02-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2017-02-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2017-02-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        },
+        {
+            "venue": "Grange Cricket Club Ground, Raeburn Place",
+            "date": "2017-06-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        }
+    ]
+}

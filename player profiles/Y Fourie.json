@@ -1,0 +1,46 @@
+{
+    "player name": "Y Fourie",
+    "team": "South Africa",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sheikh Kamal International Cricket Stadium",
+            "date": "2017-01-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Sinhalese Sports Club Ground",
+            "date": "2014-10-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sinhalese Sports Club Ground",
+            "date": "2014-10-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 4
+        }
+    ]
+}

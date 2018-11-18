@@ -1,0 +1,33 @@
+{
+    "player name": "MJ Fourie",
+    "team": "Ireland",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Civil Service Cricket Club, Stormont",
+            "date": "2007-06-23T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Civil Service Cricket Club, Stormont",
+            "date": "2007-06-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 7
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "player name": "CA Pujara",
+    "team": "India",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Queens Sports Club",
+            "date": "2013-08-01T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-06-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-06-19T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 27,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

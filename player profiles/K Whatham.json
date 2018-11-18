@@ -1,0 +1,20 @@
+{
+    "player name": "K Whatham",
+    "team": "Canada",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "M Chinnaswamy Stadium",
+            "date": "2011-03-16T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 18,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

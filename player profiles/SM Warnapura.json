@@ -1,0 +1,33 @@
+{
+    "player name": "SM Warnapura",
+    "team": "Sri Lanka",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2008-08-29T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 30,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2008-08-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        }
+    ]
+}

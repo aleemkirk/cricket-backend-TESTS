@@ -1,0 +1,20 @@
+{
+    "player name": "F Kasteni",
+    "team": "Zimbabwe",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sabina Park, Kingston",
+            "date": "2007-03-21T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

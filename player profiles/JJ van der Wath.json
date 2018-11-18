@@ -1,0 +1,98 @@
+{
+    "player name": "JJ van der Wath",
+    "team": "South Africa",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Docklands Stadium",
+            "date": "2006-02-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2006-02-05T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 4,
+            "total runs": 37,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Adelaide Oval",
+            "date": "2006-01-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Western Australia Cricket Association Ground",
+            "date": "2006-01-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 2,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "New Wanderers Stadium",
+            "date": "2006-03-12T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 3,
+            "total runs": 35,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sedgars Park",
+            "date": "2006-09-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2007-08-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "player name": "HJH Marshall",
+    "team": "New Zealand",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Jade Stadium",
+            "date": "2006-01-03T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Westpac Stadium",
+            "date": "2006-01-06T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 50,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Westpac Stadium",
+            "date": "2006-02-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Jade Stadium",
+            "date": "2006-02-25T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 43,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "McLean Park",
+            "date": "2006-03-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Eden Park",
+            "date": "2006-03-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sir Vivian Richards Stadium, North Sound",
+            "date": "2007-03-29T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 15,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sir Vivian Richards Stadium, North Sound",
+            "date": "2007-04-02T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 1,
+            "total runs": 50,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Providence Stadium",
+            "date": "2007-04-09T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2007-01-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2006-10-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2006-10-20T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Punjab Cricket Association Stadium, Mohali",
+            "date": "2006-11-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "McLean Park",
+            "date": "2006-12-28T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 17,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Jade Stadium",
+            "date": "2007-01-02T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Eden Park",
+            "date": "2007-01-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

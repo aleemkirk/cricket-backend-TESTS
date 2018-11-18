@@ -1,0 +1,59 @@
+{
+    "player name": "MA Aponso",
+    "team": "Sri Lanka",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2016-08-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2016-08-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2016-08-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2016-08-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "player name": "Bazid Khan",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2008-04-13T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Multan Cricket Stadium",
+            "date": "2008-04-16T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 1,
+            "total runs": 51,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "player name": "BMSM Kumari",
+    "team": "Sri Lanka",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2016-09-18T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Khettarama Stadium",
+            "date": "2016-09-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2016-11-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "P Sara Oval",
+            "date": "2017-02-17T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2015-01-11T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Bert Sutcliffe Oval",
+            "date": "2015-11-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

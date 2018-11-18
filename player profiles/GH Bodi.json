@@ -1,0 +1,33 @@
+{
+    "player name": "GH Bodi",
+    "team": "South Africa",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Queens Sports Club",
+            "date": "2007-08-22T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 51,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2007-08-26T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 1,
+            "total runs": 32,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

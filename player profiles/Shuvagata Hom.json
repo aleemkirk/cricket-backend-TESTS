@@ -1,0 +1,46 @@
+{
+    "player name": "Shuvagata Hom",
+    "team": "Bangladesh",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Harare Sports Club",
+            "date": "2011-08-16T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 32,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2011-08-19T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 35,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2011-08-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

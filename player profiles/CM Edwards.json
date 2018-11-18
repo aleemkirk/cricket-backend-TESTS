@@ -1,0 +1,319 @@
+{
+    "player name": "CM Edwards",
+    "team": "England",
+    "player of matches received": 4,
+    "match stats": [
+        {
+            "venue": "North Sydney Oval",
+            "date": "2009-03-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Senwes Park",
+            "date": "2011-10-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Senwes Park",
+            "date": "2011-10-23T00:00:00.000Z",
+            "fours": 22,
+            "sixes": 0,
+            "total runs": 138,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Senwes Park",
+            "date": "2011-10-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Lord's",
+            "date": "2012-07-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2012-07-05T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sir Paul Getty's Ground",
+            "date": "2012-07-11T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Lord's",
+            "date": "2013-08-20T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 61,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2013-08-23T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 53,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2013-08-25T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2013-02-01T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2013-02-03T00:00:00.000Z",
+            "fours": 16,
+            "sixes": 0,
+            "total runs": 109,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2013-02-08T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2013-02-13T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 0,
+            "total runs": 54,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2013-02-15T00:00:00.000Z",
+            "fours": 15,
+            "sixes": 0,
+            "total runs": 106,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Louth Cricket Club",
+            "date": "2013-07-01T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 83,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Haslegrave Ground",
+            "date": "2013-07-03T00:00:00.000Z",
+            "fours": 8,
+            "sixes": 0,
+            "total runs": 62,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Melbourne Cricket Ground",
+            "date": "2014-01-19T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 41,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Bellerive Oval",
+            "date": "2014-01-26T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 34,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "North Marine Road Ground",
+            "date": "2014-08-21T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 0,
+            "total runs": 57,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "North Marine Road Ground",
+            "date": "2014-08-23T00:00:00.000Z",
+            "fours": 11,
+            "sixes": 0,
+            "total runs": 108,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2015-07-21T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 15,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2015-07-23T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 58,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Willowmoore Park",
+            "date": "2016-02-07T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 33,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

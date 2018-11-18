@@ -1,0 +1,59 @@
+{
+    "player name": "Imran Haider",
+    "team": "United Arab Emirates",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-04-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2017-01-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "ICC Global Cricket Academy",
+            "date": "2017-03-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-04-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 7
+        }
+    ]
+}

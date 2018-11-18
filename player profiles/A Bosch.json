@@ -1,0 +1,33 @@
+{
+    "player name": "A Bosch",
+    "team": "South Africa",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Manuka Oval",
+            "date": "2016-11-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "International Sports Stadium",
+            "date": "2016-11-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

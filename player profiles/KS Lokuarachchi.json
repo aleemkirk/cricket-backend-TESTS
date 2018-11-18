@@ -1,0 +1,85 @@
+{
+    "player name": "KS Lokuarachchi",
+    "team": "Sri Lanka",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Chittagong Divisional Stadium",
+            "date": "2006-02-25T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 3,
+            "total runs": 69,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2006-03-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2006-03-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sinhalese Sports Club Ground",
+            "date": "2006-03-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2007-10-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2007-10-13T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

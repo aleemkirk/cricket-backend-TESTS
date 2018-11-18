@@ -1,0 +1,72 @@
+{
+    "player name": "KW Richardson",
+    "team": "Australia",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2014-10-07T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2014-10-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2014-10-12T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2016-01-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Eden Park",
+            "date": "2016-02-03T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 2,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

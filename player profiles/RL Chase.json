@@ -1,0 +1,72 @@
+{
+    "player name": "RL Chase",
+    "team": "West Indies",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Darren Sammy National Cricket Stadium, Gros Islet",
+            "date": "2017-06-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Darren Sammy National Cricket Stadium, Gros Islet",
+            "date": "2017-06-11T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2017-06-25T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 33,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sir Vivian Richards Stadium, North Sound",
+            "date": "2017-06-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sir Vivian Richards Stadium, North Sound",
+            "date": "2017-07-02T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        }
+    ]
+}

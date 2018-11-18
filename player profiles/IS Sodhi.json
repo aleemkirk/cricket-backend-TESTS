@@ -1,0 +1,46 @@
+{
+    "player name": "IS Sodhi",
+    "team": "New Zealand",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Himachal Pradesh Cricket Association Stadium",
+            "date": "2016-10-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kingsmead",
+            "date": "2015-08-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Bay Oval",
+            "date": "2016-01-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

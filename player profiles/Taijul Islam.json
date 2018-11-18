@@ -1,0 +1,46 @@
+{
+    "player name": "Taijul Islam",
+    "team": "Bangladesh",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-09-25T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-09-28T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-12-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "player name": "T Duffin",
+    "team": "Zimbabwe",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Antigua Recreation Ground, St John's",
+            "date": "2006-04-29T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 26,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Antigua Recreation Ground, St John's",
+            "date": "2006-04-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Beausejour Stadium, Gros Islet",
+            "date": "2006-05-10T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 38,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2006-05-13T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 14,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2006-05-14T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sabina Park, Kingston",
+            "date": "2007-03-15T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2006-08-06T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 40,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Goodyear Park",
+            "date": "2006-09-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sedgars Park",
+            "date": "2006-09-20T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 88,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

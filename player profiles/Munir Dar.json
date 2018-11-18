@@ -1,0 +1,33 @@
+{
+    "player name": "Munir Dar",
+    "team": "Hong Kong",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "National Stadium",
+            "date": "2008-06-24T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 14,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Stadium",
+            "date": "2008-06-25T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "player name": "MJ McClenaghan",
+    "team": "New Zealand",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Lord's",
+            "date": "2013-05-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "The Rose Bowl",
+            "date": "2013-06-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Trent Bridge",
+            "date": "2013-06-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Boland Park",
+            "date": "2013-01-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Senwes Park",
+            "date": "2013-01-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Seddon Park",
+            "date": "2013-02-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2013-06-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Edgbaston",
+            "date": "2013-06-12T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2013-06-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Eden Park",
+            "date": "2013-12-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 6
+        },
+        {
+            "venue": "Eden Park",
+            "date": "2014-01-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2013-10-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2013-11-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",
+            "date": "2013-11-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2014-12-14T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2014-12-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2014-12-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Edgbaston",
+            "date": "2015-06-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "The Rose Bowl",
+            "date": "2015-06-14T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Bay Oval",
+            "date": "2014-10-24T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 34,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Saxton Oval",
+            "date": "2015-01-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 8
+        },
+        {
+            "venue": "Westpac Stadium",
+            "date": "2015-01-29T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "SuperSport Park",
+            "date": "2015-08-19T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 2,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2015-08-07T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Basin Reserve",
+            "date": "2016-01-25T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 2,
+            "total runs": 31,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

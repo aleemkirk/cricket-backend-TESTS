@@ -1,0 +1,33 @@
+{
+    "player name": "BM Duckett",
+    "team": "England",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-10-07T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 60,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Zahur Ahmed Chowdhury Stadium",
+            "date": "2016-10-12T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 1,
+            "total runs": 63,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

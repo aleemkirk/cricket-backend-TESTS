@@ -1,0 +1,20 @@
+{
+    "player name": "Faisal Iqbal",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Multan Cricket Stadium",
+            "date": "2006-12-13T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 30,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

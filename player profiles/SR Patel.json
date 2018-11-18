@@ -1,0 +1,345 @@
+{
+    "player name": "SR Patel",
+    "team": "England",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Headingley",
+            "date": "2008-08-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kennington Oval",
+            "date": "2008-08-29T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 31,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Madhavrao Scindia Cricket Ground",
+            "date": "2008-11-14T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 2,
+            "total runs": 28,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Maharani Usharaje Trust Cricket Ground",
+            "date": "2008-11-17T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 20,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Green Park",
+            "date": "2008-11-20T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 26,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "M Chinnaswamy Stadium",
+            "date": "2008-11-23T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Old Trafford",
+            "date": "2011-07-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Riverside Ground",
+            "date": "2011-09-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "The Rose Bowl",
+            "date": "2011-09-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Clontarf Cricket Club Ground",
+            "date": "2011-08-25T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Rajiv Gandhi International Stadium, Uppal",
+            "date": "2011-10-14T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Feroz Shah Kotla",
+            "date": "2011-10-17T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 2,
+            "total runs": 42,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Punjab Cricket Association Stadium, Mohali",
+            "date": "2011-10-20T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 2,
+            "total runs": 70,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Wankhede Stadium",
+            "date": "2011-10-23T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 14,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Eden Gardens",
+            "date": "2011-10-25T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 18,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2012-02-13T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 17,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2012-02-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2012-02-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2012-02-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 17,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Old Trafford",
+            "date": "2012-07-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "The Rose Bowl",
+            "date": "2012-08-28T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 2,
+            "total runs": 45,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kennington Oval",
+            "date": "2012-08-31T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Trent Bridge",
+            "date": "2012-09-05T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Saurashtra Cricket Association Stadium",
+            "date": "2013-01-11T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 1,
+            "total runs": 44,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Nehru Stadium",
+            "date": "2013-01-15T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 1,
+            "total runs": 30,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Punjab Cricket Association Stadium, Mohali",
+            "date": "2013-01-23T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "player name": "AO Suji",
+    "team": "Kenya",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Beausejour Stadium, Gros Islet",
+            "date": "2007-03-24T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 14,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-28T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 15,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Cambusdoon New Ground",
+            "date": "2008-08-12T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

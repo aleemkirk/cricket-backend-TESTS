@@ -1,0 +1,85 @@
+{
+    "player name": "Ghulam Shabber",
+    "team": "United Arab Emirates",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-04-02T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 70,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2017-01-24T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 14,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 3
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2017-01-26T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "ICC Global Cricket Academy",
+            "date": "2017-03-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 3
+            },
+            "wides": 0
+        },
+        {
+            "venue": "ICC Global Cricket Academy",
+            "date": "2017-03-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-04-04T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 3
+            },
+            "wides": 0
+        }
+    ]
+}

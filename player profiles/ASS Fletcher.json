@@ -1,0 +1,85 @@
+{
+    "player name": "ASS Fletcher",
+    "team": "West Indies",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "County Ground",
+            "date": "2017-06-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2017-06-29T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 36,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2017-07-06T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 23,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2017-07-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Grace Road",
+            "date": "2017-07-11T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2017-07-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

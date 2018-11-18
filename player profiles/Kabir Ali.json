@@ -1,0 +1,46 @@
+{
+    "player name": "Kabir Ali",
+    "team": "England",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Feroz Shah Kotla",
+            "date": "2006-03-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Nahar Singh Stadium",
+            "date": "2006-03-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 7
+        },
+        {
+            "venue": "Maharani Usharaje Trust Cricket Ground",
+            "date": "2006-04-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "player name": "Zulqarnain Haider",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2010-10-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2010-10-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2010-11-02T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2010-11-05T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

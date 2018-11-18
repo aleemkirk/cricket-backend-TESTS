@@ -1,0 +1,33 @@
+{
+    "player name": "LC Boylan",
+    "team": "Ireland",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "North-West University No1 Ground",
+            "date": "2017-05-07T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "North-West University No1 Ground",
+            "date": "2017-05-19T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 25,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        }
+    ]
+}

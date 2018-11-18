@@ -1,0 +1,20 @@
+{
+    "player name": "Mansoor Amjad",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "National Stadium",
+            "date": "2008-06-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

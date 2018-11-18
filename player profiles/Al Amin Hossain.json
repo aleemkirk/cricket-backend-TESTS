@@ -1,0 +1,98 @@
+{
+    "player name": "Al Amin Hossain",
+    "team": "Bangladesh",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-02-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-03-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "National Cricket Stadium, St George's",
+            "date": "2014-08-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Cricket Stadium, St George's",
+            "date": "2014-08-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-06-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-06-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-11-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

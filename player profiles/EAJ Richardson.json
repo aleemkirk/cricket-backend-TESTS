@@ -1,0 +1,20 @@
+{
+    "player name": "EAJ Richardson",
+    "team": "Ireland",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "YMCA Cricket Club",
+            "date": "2013-07-19T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 29,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

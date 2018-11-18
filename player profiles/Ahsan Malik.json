@@ -1,0 +1,59 @@
+{
+    "player name": "Ahsan Malik",
+    "team": "Netherlands",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "VRA Ground",
+            "date": "2013-07-07T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 6
+        },
+        {
+            "venue": "Maple Leaf North-West Ground",
+            "date": "2013-08-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Bert Sutcliffe Oval",
+            "date": "2014-01-23T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Bay Oval",
+            "date": "2014-01-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        }
+    ]
+}

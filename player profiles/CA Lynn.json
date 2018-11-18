@@ -1,0 +1,20 @@
+{
+    "player name": "CA Lynn",
+    "team": "Australia",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2017-01-13T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

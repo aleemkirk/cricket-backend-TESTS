@@ -1,0 +1,306 @@
+{
+    "player name": "Nawroz Mangal",
+    "team": "Afghanistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-09-28T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-10-01T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 33,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Willowmoore Park",
+            "date": "2009-04-19T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 32,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Cambusdoon New Ground",
+            "date": "2010-08-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2012-02-10T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Manuka Oval",
+            "date": "2015-02-18T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 27,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "University Oval",
+            "date": "2015-02-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "University Oval",
+            "date": "2015-02-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Western Australia Cricket Association Ground",
+            "date": "2015-03-04T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 2,
+            "total runs": 33,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "McLean Park",
+            "date": "2015-03-08T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 27,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2015-03-13T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2014-02-27T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 35,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2014-03-01T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-03-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-03-05T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "ICC Academy",
+            "date": "2014-11-28T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 1,
+            "total runs": 52,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "ICC Academy",
+            "date": "2014-11-30T00:00:00.000Z",
+            "fours": 8,
+            "sixes": 4,
+            "total runs": 129,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2015-10-16T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2015-10-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Queens Sports Club",
+            "date": "2015-10-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2015-12-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2015-12-29T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2016-01-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,631 @@
+{
+    "player name": "Azhar Ali",
+    "team": "Pakistan",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2017-01-13T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2017-01-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Adelaide Oval",
+            "date": "2017-01-26T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Edgbaston",
+            "date": "2017-06-04T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 50,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Edgbaston",
+            "date": "2017-06-07T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2017-06-12T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 1,
+            "total runs": 34,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2017-06-14T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 1,
+            "total runs": 76,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kennington Oval",
+            "date": "2017-06-18T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 1,
+            "total runs": 59,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2016-09-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2016-10-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2016-10-05T00:00:00.000Z",
+            "fours": 8,
+            "sixes": 1,
+            "total runs": 101,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2012-02-15T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 31,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2012-02-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2012-02-21T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 58,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Pallekele International Cricket Stadium",
+            "date": "2012-06-07T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Pallekele International Cricket Stadium",
+            "date": "2012-06-09T00:00:00.000Z",
+            "fours": 12,
+            "sixes": 0,
+            "total runs": 96,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2012-06-13T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2012-06-16T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 1,
+            "total runs": 81,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2012-06-18T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 30,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2012-08-28T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2012-08-31T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 59,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2012-09-03T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 27,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "MA Chidambaram Stadium, Chepauk",
+            "date": "2012-12-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Eden Gardens",
+            "date": "2013-01-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-04-17T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 72,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-04-19T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 36,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-04-22T00:00:00.000Z",
+            "fours": 10,
+            "sixes": 0,
+            "total runs": 101,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2015-07-11T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 21,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Pallekele International Cricket Stadium",
+            "date": "2015-07-15T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 79,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2015-07-19T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 49,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2015-07-22T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 33,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",
+            "date": "2015-07-26T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 35,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2015-05-26T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 2,
+            "total runs": 79,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2015-05-29T00:00:00.000Z",
+            "fours": 8,
+            "sixes": 0,
+            "total runs": 102,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2015-05-31T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 1,
+            "total runs": 46,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2015-11-11T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2015-11-13T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 22,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2015-11-17T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 36,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2015-11-20T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 2,
+            "total runs": 44,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "The Village, Malahide",
+            "date": "2016-08-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "The Rose Bowl",
+            "date": "2016-08-24T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 0,
+            "total runs": 82,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Trent Bridge",
+            "date": "2016-08-30T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Headingley",
+            "date": "2016-09-01T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 2,
+            "total runs": 80,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2016-09-04T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 33,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Basin Reserve",
+            "date": "2016-01-25T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Eden Park",
+            "date": "2016-01-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2015-10-01T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2015-10-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

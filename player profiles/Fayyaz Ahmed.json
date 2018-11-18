@@ -1,0 +1,46 @@
+{
+    "player name": "Fayyaz Ahmed",
+    "team": "United Arab Emirates",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2014-05-02T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2014-05-04T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 37,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Grange Cricket Club Ground, Raeburn Place",
+            "date": "2016-08-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

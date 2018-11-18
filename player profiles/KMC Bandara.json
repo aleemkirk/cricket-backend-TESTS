@@ -1,0 +1,20 @@
+{
+    "player name": "KMC Bandara",
+    "team": "Sri Lanka",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sophia Gardens",
+            "date": "2016-07-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

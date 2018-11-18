@@ -1,0 +1,33 @@
+{
+    "player name": "T van der Gugten",
+    "team": "Netherlands",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Maple Leaf North-West Ground",
+            "date": "2013-08-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Maple Leaf North-West Ground",
+            "date": "2013-08-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 7
+        }
+    ]
+}

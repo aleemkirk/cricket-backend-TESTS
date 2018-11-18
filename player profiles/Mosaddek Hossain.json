@@ -1,0 +1,215 @@
+{
+    "player name": "Mosaddek Hossain",
+    "team": "Bangladesh",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Hagley Oval",
+            "date": "2016-12-26T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 3,
+            "total runs": 50,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Saxton Oval",
+            "date": "2016-12-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Saxton Oval",
+            "date": "2016-12-31T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kennington Oval",
+            "date": "2017-06-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2017-06-09T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Edgbaston",
+            "date": "2017-06-15T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 15,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-10-07T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-10-09T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 29,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Zahur Ahmed Chowdhury Stadium",
+            "date": "2016-10-12T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 38,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Clontarf Cricket Club Ground",
+            "date": "2017-05-17T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 41,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Malahide",
+            "date": "2017-05-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Clontarf Cricket Club Ground",
+            "date": "2017-05-24T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-09-28T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 2,
+            "total runs": 45,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-10-01T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2017-03-25T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 1,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sinhalese Sports Club Ground",
+            "date": "2017-04-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "player name": "Mohammad Mithun",
+    "team": "Bangladesh",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-06-17T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 26,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

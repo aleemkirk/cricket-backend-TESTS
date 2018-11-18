@@ -1,0 +1,20 @@
+{
+    "player name": "Umair Ali",
+    "team": "United Arab Emirates",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "ICC Academy",
+            "date": "2015-11-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

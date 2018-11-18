@@ -1,0 +1,46 @@
+{
+    "player name": "SS Tiwary",
+    "team": "India",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+            "date": "2010-10-20T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "M Chinnaswamy Stadium",
+            "date": "2010-12-07T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 1,
+            "total runs": 37,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "MA Chidambaram Stadium, Chepauk",
+            "date": "2010-12-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "player name": "ML Cummins",
+    "team": "West Indies",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Darren Sammy National Cricket Stadium, Gros Islet",
+            "date": "2017-06-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2017-06-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sir Vivian Richards Stadium, North Sound",
+            "date": "2017-06-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        }
+    ]
+}

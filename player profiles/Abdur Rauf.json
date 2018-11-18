@@ -1,0 +1,33 @@
+{
+    "player name": "Abdur Rauf",
+    "team": "",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Sheikhupura Stadium",
+            "date": "2008-02-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Stadium",
+            "date": "2008-07-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 3
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "player name": "HH Dippenaar",
+    "team": "Africa XI",
+    "player of matches received": 3,
+    "match stats": [
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2006-01-15T00:00:00.000Z",
+            "fours": 8,
+            "sixes": 0,
+            "total runs": 74,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Docklands Stadium",
+            "date": "2006-01-20T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 41,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Docklands Stadium",
+            "date": "2006-02-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2006-02-05T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 27,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2006-01-17T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Adelaide Oval",
+            "date": "2006-01-24T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 125,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Western Australia Cricket Association Ground",
+            "date": "2006-01-31T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 3,
+            "total runs": 87,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Bellerive Oval",
+            "date": "2006-02-07T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "SuperSport Park",
+            "date": "2006-02-26T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Newlands",
+            "date": "2006-03-03T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 31,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "St George's Park",
+            "date": "2006-03-05T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kingsmead",
+            "date": "2006-03-10T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 0,
+            "total runs": 101,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "New Wanderers Stadium",
+            "date": "2006-03-12T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2006-10-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sardar Patel Stadium, Motera",
+            "date": "2006-10-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Punjab Cricket Association Stadium, Mohali",
+            "date": "2006-10-27T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Goodyear Park",
+            "date": "2006-09-15T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 85,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Buffalo Park",
+            "date": "2006-09-18T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "M Chinnaswamy Stadium",
+            "date": "2007-06-06T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "MA Chidambaram Stadium, Chepauk",
+            "date": "2007-06-09T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 0,
+            "total runs": 67,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "MA Chidambaram Stadium, Chepauk",
+            "date": "2007-06-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

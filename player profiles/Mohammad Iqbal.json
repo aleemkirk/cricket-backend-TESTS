@@ -1,0 +1,33 @@
+{
+    "player name": "Mohammad Iqbal",
+    "team": "Canada",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-20T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 30,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

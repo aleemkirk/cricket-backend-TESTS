@@ -1,0 +1,59 @@
+{
+    "player name": "Fakhar Zaman",
+    "team": "Pakistan",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Edgbaston",
+            "date": "2017-06-07T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 31,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2017-06-12T00:00:00.000Z",
+            "fours": 8,
+            "sixes": 1,
+            "total runs": 50,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2017-06-14T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 1,
+            "total runs": 57,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kennington Oval",
+            "date": "2017-06-18T00:00:00.000Z",
+            "fours": 12,
+            "sixes": 3,
+            "total runs": 114,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

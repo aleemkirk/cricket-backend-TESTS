@@ -1,0 +1,46 @@
+{
+    "player name": "MP Stoinis",
+    "team": "Australia",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Eden Park",
+            "date": "2017-01-30T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 11,
+            "total runs": 146,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 6
+        },
+        {
+            "venue": "Seddon Park",
+            "date": "2017-02-05T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 1,
+            "total runs": 42,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Headingley",
+            "date": "2015-09-11T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

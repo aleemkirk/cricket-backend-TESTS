@@ -1,0 +1,33 @@
+{
+    "player name": "AL Kandappah",
+    "team": "Canada",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-18T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 3,
+            "total runs": 69,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-20T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 28,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

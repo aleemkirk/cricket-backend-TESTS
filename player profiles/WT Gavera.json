@@ -1,0 +1,20 @@
+{
+    "player name": "WT Gavera",
+    "team": "Papua New Guinea",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Mission Road Ground, Mong Kok",
+            "date": "2016-11-04T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

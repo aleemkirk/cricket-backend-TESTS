@@ -1,0 +1,20 @@
+{
+    "player name": "A Dananjaya",
+    "team": "Sri Lanka",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",
+            "date": "2017-07-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "player name": "Haseeb Amjad",
+    "team": "Hong Kong",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2014-05-04T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 2,
+            "total runs": 21,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 3
+        },
+        {
+            "venue": "ICC Academy",
+            "date": "2015-11-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        }
+    ]
+}

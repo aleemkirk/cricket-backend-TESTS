@@ -1,0 +1,306 @@
+{
+    "player name": "Mohammad Amir",
+    "team": "Pakistan",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2017-01-13T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Western Australia Cricket Association Ground",
+            "date": "2017-01-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2017-01-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Adelaide Oval",
+            "date": "2017-01-26T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 17,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Edgbaston",
+            "date": "2017-06-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2017-06-12T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 28,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 6
+        },
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2016-09-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Providence Stadium",
+            "date": "2017-04-11T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2009-07-30T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 23,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2009-08-01T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2009-08-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2009-08-07T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2010-01-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "New Wanderers Stadium",
+            "date": "2009-09-23T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "New Wanderers Stadium",
+            "date": "2009-10-03T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2009-11-06T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2009-11-09T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 3,
+            "total runs": 73,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2010-06-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 2,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2010-06-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "The Village, Malahide",
+            "date": "2016-08-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Lord's",
+            "date": "2016-08-27T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 6,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Trent Bridge",
+            "date": "2016-08-30T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 4,
+            "total runs": 58,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Eden Park",
+            "date": "2016-01-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        }
+    ]
+}

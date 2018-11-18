@@ -1,0 +1,33 @@
+{
+    "player name": "A Nao",
+    "team": "Papua New Guinea",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-04-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-04-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

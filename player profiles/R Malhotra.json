@@ -1,0 +1,72 @@
+{
+    "player name": "R Malhotra",
+    "team": "India",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "County Ground",
+            "date": "2012-07-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Sir Paul Getty's Ground",
+            "date": "2012-07-11T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 36,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2013-01-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2013-02-03T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 17,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brabourne Stadium",
+            "date": "2013-02-05T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 38,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 2
+        }
+    ]
+}

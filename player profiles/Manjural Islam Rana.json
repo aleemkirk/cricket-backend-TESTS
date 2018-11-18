@@ -1,0 +1,20 @@
+{
+    "player name": "Manjural Islam Rana",
+    "team": "Bangladesh",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Chittagong Divisional Stadium",
+            "date": "2006-02-25T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 23,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

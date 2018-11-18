@@ -1,0 +1,46 @@
+{
+    "player name": "AC Cummins",
+    "team": "Canada",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Beausejour Stadium, Gros Islet",
+            "date": "2007-03-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-02-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Jaffery Sports Club Ground",
+            "date": "2007-02-05T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 5
+        }
+    ]
+}

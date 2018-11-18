@@ -1,0 +1,59 @@
+{
+    "player name": "Saqib Ali",
+    "team": "United Arab Emirates",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2008-06-24T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2008-06-26T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "ICC Academy",
+            "date": "2014-11-28T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "ICC Academy",
+            "date": "2014-11-30T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 25,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

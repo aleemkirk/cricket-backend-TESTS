@@ -1,0 +1,267 @@
+{
+    "player name": "SM Katich",
+    "team": "Australia",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2006-01-15T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Docklands Stadium",
+            "date": "2006-02-03T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 25,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2006-02-05T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2006-01-22T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Adelaide Oval",
+            "date": "2006-01-26T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 52,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Western Australia Cricket Association Ground",
+            "date": "2006-01-29T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 82,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Adelaide Oval",
+            "date": "2006-02-10T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 56,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sydney Cricket Ground",
+            "date": "2006-02-12T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Brisbane Cricket Ground, Woolloongabba",
+            "date": "2006-02-14T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 0,
+            "total runs": 107,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Chittagong Divisional Stadium",
+            "date": "2006-04-23T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 18,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Narayanganj Osmani Stadium",
+            "date": "2006-04-26T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 26,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Narayanganj Osmani Stadium",
+            "date": "2006-04-28T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 42,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "SuperSport Park",
+            "date": "2006-02-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Newlands",
+            "date": "2006-03-03T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "St George's Park",
+            "date": "2006-03-05T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 1,
+            "total runs": 49,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kingsmead",
+            "date": "2006-03-10T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 46,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "New Wanderers Stadium",
+            "date": "2006-03-12T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 1,
+            "total runs": 79,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-18T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 22,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-24T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 25,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

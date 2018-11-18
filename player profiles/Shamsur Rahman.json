@@ -1,0 +1,124 @@
+{
+    "player name": "Shamsur Rahman",
+    "team": "Bangladesh",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2013-10-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 2,
+            "total runs": 25,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2013-11-03T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 4,
+            "total runs": 96,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-02-17T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 3,
+            "total runs": 62,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-02-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-02-22T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 25,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2014-02-26T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-03-06T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 39,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Cricket Stadium, St George's",
+            "date": "2014-08-20T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Cricket Stadium, St George's",
+            "date": "2014-08-22T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

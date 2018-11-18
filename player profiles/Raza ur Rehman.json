@@ -1,0 +1,59 @@
+{
+    "player name": "Raza ur Rehman",
+    "team": "Canada",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "ICC Global Cricket Academy",
+            "date": "2013-03-11T00:00:00.000Z",
+            "fours": 11,
+            "sixes": 0,
+            "total runs": 70,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Maple Leaf North-West Ground",
+            "date": "2013-08-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Hagley Oval",
+            "date": "2014-01-23T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 4
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Bay Oval",
+            "date": "2014-01-28T00:00:00.000Z",
+            "fours": 11,
+            "sixes": 0,
+            "total runs": 88,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        }
+    ]
+}

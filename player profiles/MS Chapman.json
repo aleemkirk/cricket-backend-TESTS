@@ -1,0 +1,20 @@
+{
+    "player name": "MS Chapman",
+    "team": "Hong Kong",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "ICC Academy",
+            "date": "2015-11-16T00:00:00.000Z",
+            "fours": 11,
+            "sixes": 2,
+            "total runs": 124,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

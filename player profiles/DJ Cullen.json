@@ -1,0 +1,33 @@
+{
+    "player name": "DJ Cullen",
+    "team": "",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Chittagong Divisional Stadium",
+            "date": "2006-04-23T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Narayanganj Osmani Stadium",
+            "date": "2006-04-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        }
+    ]
+}

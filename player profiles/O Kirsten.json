@@ -1,0 +1,46 @@
+{
+    "player name": "O Kirsten",
+    "team": "South Africa",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Sheikh Kamal International Cricket Stadium",
+            "date": "2017-01-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Boland Park",
+            "date": "2016-10-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Boland Park",
+            "date": "2016-10-24T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 22,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        }
+    ]
+}

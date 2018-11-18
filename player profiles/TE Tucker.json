@@ -1,0 +1,20 @@
+{
+    "player name": "TE Tucker",
+    "team": "",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Maple Leaf North-West Ground",
+            "date": "2008-06-29T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

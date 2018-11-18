@@ -1,0 +1,59 @@
+{
+    "player name": "SE Findlay",
+    "team": "West Indies",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Warner Park, Basseterre",
+            "date": "2008-07-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Warner Park, Basseterre",
+            "date": "2008-07-06T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 1,
+            "total runs": 59,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Westpac Stadium",
+            "date": "2009-01-07T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2008-11-14T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

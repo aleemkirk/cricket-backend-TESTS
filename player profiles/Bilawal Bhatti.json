@@ -1,0 +1,111 @@
+{
+    "player name": "Bilawal Bhatti",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2013-12-18T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2013-12-20T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Newlands",
+            "date": "2013-11-24T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 2,
+            "total runs": 39,
+            "wickets": {
+                "bowled": 3,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "St George's Park",
+            "date": "2013-11-27T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 21,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "SuperSport Park",
+            "date": "2013-11-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Khan Shaheb Osman Ali Stadium",
+            "date": "2014-02-25T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 18,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Westpac Stadium",
+            "date": "2015-01-31T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "McLean Park",
+            "date": "2015-02-03T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        }
+    ]
+}

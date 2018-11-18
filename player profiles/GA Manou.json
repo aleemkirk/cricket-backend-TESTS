@@ -1,0 +1,33 @@
+{
+    "player name": "GA Manou",
+    "team": "Australia",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Punjab Cricket Association Stadium, Mohali",
+            "date": "2009-11-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 7,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 3
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Rajiv Gandhi International Stadium, Uppal",
+            "date": "2009-11-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 2
+            },
+            "wides": 0
+        }
+    ]
+}

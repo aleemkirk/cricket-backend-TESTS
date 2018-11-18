@@ -1,0 +1,33 @@
+{
+    "player name": "Aamer Yamin",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Harare Sports Club",
+            "date": "2015-10-01T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2015-10-03T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 4,
+            "total runs": 62,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        }
+    ]
+}

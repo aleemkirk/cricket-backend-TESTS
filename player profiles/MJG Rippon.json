@@ -1,0 +1,20 @@
+{
+    "player name": "MJG Rippon",
+    "team": "Netherlands",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "VRA Ground",
+            "date": "2013-07-07T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        }
+    ]
+}

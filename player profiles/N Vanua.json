@@ -1,0 +1,46 @@
+{
+    "player name": "N Vanua",
+    "team": "Papua New Guinea",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Mission Road Ground, Mong Kok",
+            "date": "2016-11-06T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-04-02T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 18,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 4
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-04-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 2
+        }
+    ]
+}

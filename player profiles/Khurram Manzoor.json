@@ -1,0 +1,72 @@
+{
+    "player name": "Khurram Manzoor",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sheikhupura Stadium",
+            "date": "2008-02-02T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 50,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2008-11-12T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 69,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Stadium",
+            "date": "2009-01-20T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 0,
+            "total runs": 83,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Stadium",
+            "date": "2009-01-21T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2009-01-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

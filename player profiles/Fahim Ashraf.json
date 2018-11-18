@@ -1,0 +1,20 @@
+{
+    "player name": "Fahim Ashraf",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sophia Gardens",
+            "date": "2017-06-12T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 15,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        }
+    ]
+}

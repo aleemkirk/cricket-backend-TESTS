@@ -1,0 +1,33 @@
+{
+    "player name": "CMG Atkins",
+    "team": "England",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "North Sydney Oval",
+            "date": "2009-03-10T00:00:00.000Z",
+            "fours": 9,
+            "sixes": 0,
+            "total runs": 69,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "County Ground",
+            "date": "2009-06-29T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 48,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        }
+    ]
+}

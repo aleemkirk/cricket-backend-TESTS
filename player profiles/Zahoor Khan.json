@@ -1,0 +1,46 @@
+{
+    "player name": "Zahoor Khan",
+    "team": "United Arab Emirates",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Dubai International Cricket Stadium",
+            "date": "2017-01-24T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "ICC Global Cricket Academy",
+            "date": "2017-03-02T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 2
+        },
+        {
+            "venue": "ICC Global Cricket Academy",
+            "date": "2017-03-04T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 1,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

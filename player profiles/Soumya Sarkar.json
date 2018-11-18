@@ -1,0 +1,384 @@
+{
+    "player name": "Soumya Sarkar",
+    "team": "Bangladesh",
+    "player of matches received": 3,
+    "match stats": [
+        {
+            "venue": "Hagley Oval",
+            "date": "2016-12-26T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kennington Oval",
+            "date": "2017-06-01T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 1,
+            "total runs": 28,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kennington Oval",
+            "date": "2017-06-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sophia Gardens",
+            "date": "2017-06-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 3,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Malahide",
+            "date": "2017-05-12T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Clontarf Cricket Club Ground",
+            "date": "2017-05-17T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 61,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Malahide",
+            "date": "2017-05-19T00:00:00.000Z",
+            "fours": 11,
+            "sixes": 2,
+            "total runs": 87,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-09-25T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-09-28T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 20,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2016-10-01T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 11,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2017-03-25T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 10,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Rangiri Dambulla International Stadium",
+            "date": "2017-03-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sinhalese Sports Club Ground",
+            "date": "2017-04-01T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 1,
+            "total runs": 38,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Manuka Oval",
+            "date": "2015-02-18T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 1,
+            "total runs": 28,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Melbourne Cricket Ground",
+            "date": "2015-02-26T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 25,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Saxton Oval",
+            "date": "2015-03-05T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 4
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Adelaide Oval",
+            "date": "2015-03-09T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 1,
+            "total runs": 40,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Seddon Park",
+            "date": "2015-03-13T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 51,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Melbourne Cricket Ground",
+            "date": "2015-03-19T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 1,
+            "total runs": 29,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2014-12-01T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 20,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-07-10T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 27,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-07-12T00:00:00.000Z",
+            "fours": 13,
+            "sixes": 1,
+            "total runs": 88,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Zahur Ahmed Chowdhury Stadium",
+            "date": "2015-07-15T00:00:00.000Z",
+            "fours": 13,
+            "sixes": 1,
+            "total runs": 90,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-04-17T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 20,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-04-19T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 17,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-04-22T00:00:00.000Z",
+            "fours": 13,
+            "sixes": 6,
+            "total runs": 127,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-06-18T00:00:00.000Z",
+            "fours": 8,
+            "sixes": 1,
+            "total runs": 54,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-06-21T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 1,
+            "total runs": 34,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Shere Bangla National Stadium",
+            "date": "2015-06-24T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 2,
+            "total runs": 40,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

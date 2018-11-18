@@ -1,0 +1,59 @@
+{
+    "player name": "Khalid Latif",
+    "team": "Pakistan",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Iqbal Stadium",
+            "date": "2008-01-30T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2009-11-03T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 64,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2009-11-06T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 45,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2009-11-09T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 19,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

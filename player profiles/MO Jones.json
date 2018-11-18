@@ -1,0 +1,72 @@
+{
+    "player name": "MO Jones",
+    "team": "Bermuda",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Queen's Park Oval, Port of Spain",
+            "date": "2007-03-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 8
+        },
+        {
+            "venue": "Ruaraka Sports Club Ground",
+            "date": "2007-02-04T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 1,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 3
+        },
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-25T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 21,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-27T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 3,
+            "total runs": 27,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-28T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 5,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        }
+    ]
+}

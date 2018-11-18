@@ -1,0 +1,293 @@
+{
+    "player name": "Inzamam ul Haq",
+    "team": "Pakistan",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Lord's",
+            "date": "2006-09-02T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 0,
+            "total runs": 42,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "The Rose Bowl",
+            "date": "2006-09-05T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 2,
+            "total runs": 44,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Trent Bridge",
+            "date": "2006-09-08T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 0,
+            "total runs": 47,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Edgbaston",
+            "date": "2006-09-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Arbab Niaz Stadium",
+            "date": "2006-02-06T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Rawalpindi Cricket Stadium",
+            "date": "2006-02-11T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 8,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Gaddafi Stadium",
+            "date": "2006-02-13T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 16,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Multan Cricket Stadium",
+            "date": "2006-02-16T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 0,
+            "total runs": 49,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "National Stadium",
+            "date": "2006-02-19T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 1,
+            "total runs": 21,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2006-03-17T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 0,
+            "total runs": 24,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "R Premadasa Stadium",
+            "date": "2006-03-19T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sinhalese Sports Club Ground",
+            "date": "2006-03-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 12,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2006-04-18T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 40,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2006-04-19T00:00:00.000Z",
+            "fours": 5,
+            "sixes": 1,
+            "total runs": 79,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sabina Park, Kingston",
+            "date": "2007-03-13T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 36,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sabina Park, Kingston",
+            "date": "2007-03-17T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sabina Park, Kingston",
+            "date": "2007-03-21T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 3,
+            "total runs": 37,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 3
+            },
+            "wides": 0
+        },
+        {
+            "venue": "SuperSport Park",
+            "date": "2007-02-04T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 0,
+            "total runs": 15,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kingsmead",
+            "date": "2007-02-07T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 13,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "St George's Park",
+            "date": "2007-02-09T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 1,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Newlands",
+            "date": "2007-02-11T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 45,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Iqbal Stadium",
+            "date": "2006-12-07T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 42,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 2
+            },
+            "wides": 0
+        }
+    ]
+}

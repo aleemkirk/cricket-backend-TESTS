@@ -1,0 +1,33 @@
+{
+    "player name": "Bilal Asif",
+    "team": "Pakistan",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2015-11-11T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Harare Sports Club",
+            "date": "2015-10-05T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 1,
+            "total runs": 38,
+            "wickets": {
+                "bowled": 3,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

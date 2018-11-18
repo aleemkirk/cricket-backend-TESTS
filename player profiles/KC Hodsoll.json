@@ -1,0 +1,20 @@
+{
+    "player name": "KC Hodsoll",
+    "team": "Bermuda",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Gymkhana Club Ground",
+            "date": "2007-10-28T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

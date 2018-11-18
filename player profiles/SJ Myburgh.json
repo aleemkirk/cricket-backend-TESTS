@@ -1,0 +1,72 @@
+{
+    "player name": "SJ Myburgh",
+    "team": "Netherlands",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Sharjah Cricket Stadium",
+            "date": "2012-03-29T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 0,
+            "total runs": 23,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "VRA Ground",
+            "date": "2013-07-07T00:00:00.000Z",
+            "fours": 2,
+            "sixes": 0,
+            "total runs": 22,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Maple Leaf North-West Ground",
+            "date": "2013-08-27T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Maple Leaf North-West Ground",
+            "date": "2013-08-29T00:00:00.000Z",
+            "fours": 6,
+            "sixes": 2,
+            "total runs": 52,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Bay Oval",
+            "date": "2014-01-28T00:00:00.000Z",
+            "fours": 3,
+            "sixes": 1,
+            "total runs": 36,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

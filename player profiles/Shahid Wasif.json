@@ -1,0 +1,59 @@
+{
+    "player name": "Shahid Wasif",
+    "team": "Hong Kong",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Grange Cricket Club Ground, Raeburn Place",
+            "date": "2016-09-10T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Mission Road Ground, Mong Kok",
+            "date": "2016-11-04T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 2,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Mission Road Ground, Mong Kok",
+            "date": "2016-11-06T00:00:00.000Z",
+            "fours": 4,
+            "sixes": 2,
+            "total runs": 45,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Sheikh Zayed Stadium",
+            "date": "2017-01-22T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 0,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 1,
+                "caught": 1
+            },
+            "wides": 0
+        }
+    ]
+}

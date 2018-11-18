@@ -1,0 +1,33 @@
+{
+    "player name": "MJ Cosgrove",
+    "team": "Australia",
+    "player of matches received": 1,
+    "match stats": [
+        {
+            "venue": "Narayanganj Osmani Stadium",
+            "date": "2006-04-28T00:00:00.000Z",
+            "fours": 7,
+            "sixes": 2,
+            "total runs": 74,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        },
+        {
+            "venue": "Kinrara Academy Oval",
+            "date": "2006-09-16T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 0,
+            "total runs": 4,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}

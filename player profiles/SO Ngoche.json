@@ -1,0 +1,33 @@
+{
+    "player name": "SO Ngoche",
+    "team": "Kenya",
+    "player of matches received": 0,
+    "match stats": [
+        {
+            "venue": "Mombasa Sports Club Ground",
+            "date": "2012-02-20T00:00:00.000Z",
+            "fours": 1,
+            "sixes": 1,
+            "total runs": 28,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 1
+        },
+        {
+            "venue": "Hagley Oval",
+            "date": "2014-01-30T00:00:00.000Z",
+            "fours": 0,
+            "sixes": 1,
+            "total runs": 9,
+            "wickets": {
+                "bowled": 0,
+                "run_out": 0,
+                "caught": 0
+            },
+            "wides": 0
+        }
+    ]
+}
