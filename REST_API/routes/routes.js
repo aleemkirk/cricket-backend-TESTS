@@ -1,18 +1,36 @@
 var faker = require("faker");
-var sql = require("mssql");
+var mysql = require("mysql");
+var host_name = 'localhost'
 
-const config = {
-    user: "root",
-    password: "",
-    server: "localhost",
-    database: "cricket_player_profiles"
-}
+var connection = mysql.createConnection({
+    host: host_name,
+    user: 'root',
+    password: '',
+    database: 'cricket_player_profiles'
+});
 
 var appRouter = function(app){
 
-    app.get("/", function(req, res){
-         
+    app.get("/players", function(req, res){
+        connection.query('SELECT `name` from `players`', function(err, rows, fields){
+            if(err) throw err;
+            res.status(200).send(JSON.stringify({player_names: rows}));
+        });
     });
+
+    app.get("/player/:num", function(req, res){
+        var index = req.params.num;
+        if(isFinite(index) && index >=0){
+            connection.query('SELECT * FROM `players` ORDER BY `id` LIMIT 1 OFFSET '+ index +';', function(err, row, fields){
+                if(err) throw err;
+                res.status(200).send(JSON.stringify({player: row}))
+
+            });
+        }else{res.status(404).send({'error message': "enter valid number"});}
+
+    });
+
+    
 
     // app.get("/user", function(req, res){
     //     var data = ({
